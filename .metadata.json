@@ -1,10 +1,10 @@
 [
   {
-    "package": "pivottabler",
+    "package": "basictabler",
     "oncran": true
   },
   {
-    "package": "basictabler",
+    "package": "pivottabler",
     "oncran": true
   }
 ]
