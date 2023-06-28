@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "basictabler"]
 	path = basictabler
 	url = https://github.com/cbailiss/basictabler
-	shallow = true
-	registered = true
 [submodule "pivottabler"]
 	path = pivottabler
 	url = https://github.com/cbailiss/pivottabler
-	shallow = true
-	registered = true
